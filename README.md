@@ -1,5 +1,7 @@
 # CSE465-(Pattern Recognition and Neural Network)-Project
 
+Project Name: Nucleus Cell Segmentation using U-net(Deep Learning) model
+
 Done by: Dipta Voumick (1632178042) &
 Prince Deb (1621232042)
 
